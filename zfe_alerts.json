@@ -1,0 +1,10 @@
+[
+  {
+    "type": "ALERT ZFE",
+    "point_id": 3,
+    "timestamp": "08:00:20",
+    "latitude": 45.785,
+    "longitude": 4.805,
+    "message": "Entrée dans le périmètre ZFE détectée hors ligne."
+  }
+]

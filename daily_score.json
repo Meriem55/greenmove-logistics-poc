@@ -1,0 +1,22 @@
+{
+  "date_generation_utc": "2026-11-11T10:57:27.207351+00:00",
+  "samples_analyses": 10,
+  "threshold_m_s2": -2.5,
+  "filter": {
+    "type": "exponential_moving_average",
+    "alpha": 0.8
+  },
+  "harsh_braking_count": 1,
+  "safety_score_poc": 90,
+  "events": [
+    {
+      "type": "HARSH_BRAKING",
+      "timestamp": 1678880005.0,
+      "row": 7,
+      "acc_y_raw_m_s2": -3.45,
+      "acc_y_filtered_m_s2": -2.905,
+      "threshold_m_s2": -2.5
+    }
+  ],
+  "note": "Score de démonstration non homologué pour une décision d'assurance."
+}
