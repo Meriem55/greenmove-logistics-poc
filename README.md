@@ -9,7 +9,7 @@
 Python 3.10 ou supérieur. Aucune dépendance externe : bibliothèque standard uniquement.
 
 ## Lancer en local
-Depuis le dossier `gml_poc` :
+Depuis le dossier du projet greenmove-logistics-poc :
 
 ```bash
 python main.py
