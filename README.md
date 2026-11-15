@@ -25,7 +25,7 @@ python main.py --module safety
 Personnaliser les fichiers d'entrée :
 
 ```bash
-python main.py --module all --polygon data/lyon_polygon.json --gps data/truck_gps.json --csv data/accelerometer_data.csv
+python main.py --module all --polygon lyon_polygon.json --gps truck_gps.json --csv accelerometer_data.csv
 ```
 
 ## Algorithmes
