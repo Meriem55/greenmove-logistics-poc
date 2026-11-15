@@ -54,6 +54,6 @@ L'extrait de l'énoncé contient un freinage à `-3.45 m/s²`. Le score fourni e
 - Les résultats sont conservés dans le dossier `output/`.
 
 ## Limites du POC
-- Les fichiers fournis dans `data/` reprennent les exemples de l'annexe de l'énoncé ; remplacer le CSV par le fichier complet fourni pour l'évaluation, le cas échéant.
+- Les fichiers d'entrée (`lyon_polygon.json`, `truck_gps.json` et `accelerometer_data.csv`) sont placés à la racine du projet et reprennent les exemples de l'annexe de l'énoncé. Le CSV pourra être remplacé par le fichier complet fourni pour l'évaluation, le cas échéant.
 - Le POC ne remplace pas une validation sur véhicule, un étalonnage capteur, ni une validation juridique/assurantielle.
 - L'énoncé indique 100 Hz dans l'annexe 1 ; le CSV d'exemple est échantillonné à 1 seconde. Le code traite chaque ligne sans supposer une fréquence particulière.
